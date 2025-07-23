@@ -3,3 +3,5 @@
 Repository for the INLG 2024 system demo paper "QCET: An Interactive Taxonomy of Quality Criteria\\for Comparable and Repeatable Evaluation of NLP Systems" [https://aclanthology.org/2024.inlg-demos.4](https://aclanthology.org/2024.inlg-demos.4)
 
 The online version of the tool can be found here:  [https://nlp-qcet.github.io](https://nlp-qcet.github.io)
+
+ACL (Fidnigns) 2025 version will be available here soon.
